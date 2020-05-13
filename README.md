@@ -19,6 +19,7 @@ Built With:
 •	CSS
 •	JavaScript
 •	Bootstrap
+•	Firebase
 
 Authors:	 
 •	Anida Mujezin
