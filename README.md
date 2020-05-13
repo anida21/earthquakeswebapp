@@ -1,0 +1,2 @@
+# earthquakeswebapp
+HTML,CSS,JAVASCRIPT,BOOTSTRAP
